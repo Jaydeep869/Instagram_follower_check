@@ -63,9 +63,9 @@ try:
     print(f"Your account has {follower_count} followers and is following {following_count} accounts")
     
 except Exception as e:
-    print(f"Couldn't find exact counts, using default values: 41 followers, 101 following")
-    follower_count = 41
-    following_count = 101
+    print(f"Couldn't find exact counts, using default values: 500 followers, 500 following")
+    follower_count = 500
+    following_count = 500
 
 def get_list_of_users(list_type, expected_count):
     print(f"\nGetting your {list_type} list...")
