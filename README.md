@@ -14,6 +14,13 @@ This Python script allows you to **automatically log in to Instagram**, **retrie
 
 ---
 
+## DEMO
+
+[Screencast from 2025-04-08 18-58-44.webm](https://github.com/user-attachments/assets/9f8cc4c7-f141-48c7-89a6-ebfc93752896)
+
+
+---
+
 ## 🛠️ Requirements
 
 - Python 3.x
